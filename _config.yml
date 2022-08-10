@@ -76,4 +76,4 @@ exclude: [docs/, Rakefile, README.md, LICENSE]
 sass:
   style: compressed
 
-theme: jekyll-theme-time-machine
+theme: 
