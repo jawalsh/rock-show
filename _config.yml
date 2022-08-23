@@ -20,14 +20,14 @@ source-code: https://github.com/jawalsh/collectionbuilder-test
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Rock and Roll All Night, The Concerts I’ve Seen 
+title: Rock Show
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A test collection built with CollectionBuilder
+tagline: A collection of musical adventures
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills. This is a test collection."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: John A. Walsh
+author: John Walsh
 
 ##########
 # COLLECTION SETTINGS
