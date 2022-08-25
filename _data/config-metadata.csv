@@ -1,18 +1,18 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Artist,
-support,Supporting Artist,
-date,Performance Date,
-description,Description,
+title,Title,,
+creator,Artist,,
+support,Supporting Artist,,
+date,Performance Date,,
+description,Description,,
 subject,Subjects,true
-venue,Venue
-price,Price
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+venue,Venue,,
+price,Price,,
+location,Location,,
+latitude,Latitude,,
+longitude,Longitude,,
+source,Source,,
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
+type,Type,,
+format,Format,,
+rights,Rights,,
 rightsstatement,Rights Statement,,true
