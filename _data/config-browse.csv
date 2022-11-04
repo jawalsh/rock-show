@@ -3,3 +3,4 @@ date,Date,,,Date
 creator,Artist,,,Artist
 subject,,true
 location,,true
+venue,Venue,true,,Venue
