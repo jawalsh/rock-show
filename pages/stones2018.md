@@ -1,7 +1,7 @@
 ---
 title: Rolling Stones, Cardiff, 1982
 layout: page
-permalink: /stones1982.html
+permalink: /stones2018.html
 # Default subject page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.subjects-fields"
 # a cloud visualization will be added below the content in this file
@@ -20,11 +20,11 @@ Donec fringilla, nibh id posuere congue, arcu enim luctus nibh, nec tristique er
 ### Curabitur in nisl a tortor
 Curabitur in nisl a tortor facilisis maximus non sed arcu. Nulla congue arcu quam, id condimentum enim tempor sit amet. Donec eu egestas tortor. Quisque non rhoncus quam. Donec mattis auctor tempus. Proin porta urna erat, ornare tempor ipsum ornare sit amet. Sed et lorem eu quam mollis bibendum.
 
-![tickets](/rock-show/images/stones1982_01.jpg)
+![tickets](/rock-show/images/stones2018_01.jpg)
 
 Mauris auctor id augue at aliquet. Proin at fringilla ante. Aenean dui libero, pulvinar semper massa sed, iaculis interdum purus. Praesent molestie neque elementum condimentum luctus. Sed ipsum sapien, consectetur non enim eu, vulputate bibendum dui. Ut ultrices, magna non lacinia dignissim, augue dolor luctus purus, sit amet ullamcorper risus augue ut neque. Aenean tristique posuere lectus. Curabitur a auctor magna, sit amet rutrum magna. Mauris tincidunt nunc sed mauris lobortis fermentum. Integer ullamcorper est id orci sagittis sodales. Quisque vitae sem eget orci porta elementum. Donec facilisis id ante nec rhoncus. Proin congue a ante id imperdiet. Proin ullamcorper velit at tortor pharetra scelerisque. Pellentesque ut pretium est, sed posuere dui.
 
-![Olivia and me getting ready for the show!](/rock-show/images/stones1982_02.jpg)
+![Olivia and me getting ready for the show!](/rock-show/images/stones2018_02.jpg)
 
 
 
