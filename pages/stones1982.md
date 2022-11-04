@@ -10,4 +10,5 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## The Rolling Stones 15 June 1982, Principality Stadium, Cardiff, Wales
 
-
+![tickets](/rock-show/images/stones1982_01.jpg)
+![Me and Olivia getting ready for the show!](/rock-show/images/stones1982_02.jpg)
