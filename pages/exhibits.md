@@ -12,4 +12,4 @@ cloud-fields: site.data.theme.subjects-fields
 
 Featured content from Rock Show.
 
-- [Rolling Stones, Cardiff, 2018]()
+- [Rolling Stones, Cardiff, 2018](/stones1982.html)
