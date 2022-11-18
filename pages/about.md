@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/objects/tix007.jpg" title="test" heading="Yay! It worked!" text="wtf" %}
+{% include feature/jumbotron.html objectid="tix007.jpg" title="test" heading="Yay! It worked!" text="wtf" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
