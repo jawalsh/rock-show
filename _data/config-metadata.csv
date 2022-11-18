@@ -8,8 +8,6 @@ subject,Subjects,true
 venue,Venue,,
 price,Price,,
 location,Location,,
-latitude,Latitude,,
-longitude,Longitude,,
 relation,Audio,,true
 source,Source,,
 identifier,Source Identifier,,
