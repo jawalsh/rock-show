@@ -5,9 +5,9 @@ support,Supporting Artist,,
 date,Performance Date,,
 description,Description,,
 subject,Subjects,true
-venue,Venue,,
+venue,Venue,true,
 price,Price,,
-location,Location,,
+location,Location,true,
 relation,Audio,,true
 source,Source,,
 identifier,Source Identifier,,
