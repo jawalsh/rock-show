@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+{% include feature/image.html objectid="tix049" %}
+
 This site documents the many music performances I have seen throughout my life. The first proper rock ’n’ roll concert was [Bruce Springsteen at Riverfront Coliseum in Cincinnati, Ohio on July 26](https://jawalsh.github.io/rock-show/item.html?id=tix019). I went again the next night, [July 27th](https://jawalsh.github.io/rock-show/item.html?id=tix045). These were the final two shows of Springsteens “The River” tour. I've seen big stadium shows by huge stars, intimate club shows by less well known acts, and everything in between. 
 
 {% include feature/timelinejs.html %}
