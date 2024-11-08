@@ -13,6 +13,8 @@ Between 19XX and 19XX, I saw the Grateful Dead X times in X cities.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis lacus id nisl blandit suscipit. In interdum pretium lobortis. Etiam feugiat dapibus lectus, eget accumsan tellus vestibulum at. Sed rhoncus vel sem id fermentum. Etiam hendrerit velit in nulla pellentesque, a pretium metus faucibus. Nulla finibus eu arcu nec pharetra. Cras congue nulla quis lectus viverra, nec tincidunt erat aliquam. Maecenas lacinia turpis accumsan lacus lacinia gravida. Nunc mollis mauris non rhoncus egestas.
 
+{% include feature/image.html objectid="tix009" %}
+
 In nec lectus at massa condimentum dictum. Vivamus magna ipsum, lacinia sed purus in, luctus mattis magna. Integer at massa dui. Curabitur gravida, felis vel luctus pharetra, risus eros placerat diam, at porttitor lectus lacus at arcu. Etiam erat lectus, efficitur pellentesque finibus vel, pharetra in ante. Donec eu feugiat velit. Mauris rutrum est sed felis scelerisque tincidunt. Duis fermentum ultricies nibh, id efficitur ex interdum non. Nam auctor at nibh quis tristique. Nam sit amet rutrum diam.
 
 Phasellus sed ultrices nisl. Aenean congue laoreet metus at lacinia. Fusce vel commodo odio. Aliquam maximus nunc et nisl laoreet ullamcorper. Suspendisse dignissim vestibulum nisl, vel malesuada mi tristique at. Nam volutpat sem non ullamcorper aliquam. Donec dignissim est ac turpis bibendum tincidunt. Morbi a sem purus.
