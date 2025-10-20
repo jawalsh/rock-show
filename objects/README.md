@@ -18,3 +18,5 @@ Since you will be committing these objects into a GitHub repository, and there a
 CB-GH is great for learning and prototyping--all your configuration and metadata template is transferable to other CollectionBuilder templates.
 If you are building a larger collection or featuring larger objects, you will run into its limitations--try using a smaller subset of your collection and smaller size images for your prototype, then migrate to the fully featured template later!
 Other CollectionBuilder templates enable generating derivatives and hosting objects outside of GitHub.
+
+<!-- update. -->
