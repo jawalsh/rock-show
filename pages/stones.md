@@ -7,4 +7,4 @@ permalink: /stones.html
 
 Type a meaningless sentence.
 
-{% include feature/image-gallery.html %}
+{% include index/carousel.html title="Sample Items" height="300" %}
