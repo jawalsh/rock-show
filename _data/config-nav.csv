@@ -1,12 +1,12 @@
 display_name,stub,dropdown_parent
-Home,/
-Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-Timeline,/timeline.html
-Data,/data.html
-Exhibits,
-About,/about.html
+Home,/,
+Browse,/browse.html,
+Subjects,/subjects.html,
+Locations,/locations.html,
+Map,/map.html,
+Timeline,/timeline.html,
+Data,/data.html,
+Exhibits,,,
+About,/about.html,
 "Rollings Stones, Cardiff, 2018",/stones2018.html,Exhibits
 The Dead,/dead.html,
