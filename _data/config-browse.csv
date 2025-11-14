@@ -1,5 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Artist,,,Artist
-location,Location,
+location,Location,,,
 venue,Venue,false,,Venue
+price,Price,true,,Price
