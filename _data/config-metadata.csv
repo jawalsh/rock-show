@@ -6,7 +6,6 @@ date,Performance Date,,
 description,Description,,
 subject,Subjects,true
 venue,Venue,true,
-price,Price,,
 location,Location,true,
 relation,Audio,,true
 source,Source,,
